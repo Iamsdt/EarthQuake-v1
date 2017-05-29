@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c3d4d38d6e9de3f7c3074bf9246c788d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\239e29ee60eb88cf8dd24d4254feb303\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\21eca1bc70cab5cede818cd0c2394cfe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d736ee7e8d28835d6fdce06e49171439\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\281a25e53f1cfe9f4689961f563020ac\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\58fe2c8fa2adc8872a59eb7b170b8b15\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\848ce61e63b37ae80ae45a58fe25bf8c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\785c77574e5e7655a16bd67084f06c02\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d479451e10b9fa4bcad6181b74ade573\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\918fe3601d5fc7a85bf17fbac7959d8a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bd9c9d8b66e2eccb4f14d13c7d884c3c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\18d4e528e43b0f1701c873201c658a4b\AndroidManifest.xml:17:1-28:12
+INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c3d4d38d6e9de3f7c3074bf9246c788d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c3d4d38d6e9de3f7c3074bf9246c788d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\239e29ee60eb88cf8dd24d4254feb303\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\239e29ee60eb88cf8dd24d4254feb303\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\21eca1bc70cab5cede818cd0c2394cfe\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\21eca1bc70cab5cede818cd0c2394cfe\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d736ee7e8d28835d6fdce06e49171439\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d736ee7e8d28835d6fdce06e49171439\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\281a25e53f1cfe9f4689961f563020ac\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\281a25e53f1cfe9f4689961f563020ac\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\58fe2c8fa2adc8872a59eb7b170b8b15\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\58fe2c8fa2adc8872a59eb7b170b8b15\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\848ce61e63b37ae80ae45a58fe25bf8c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\848ce61e63b37ae80ae45a58fe25bf8c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\785c77574e5e7655a16bd67084f06c02\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\785c77574e5e7655a16bd67084f06c02\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\918fe3601d5fc7a85bf17fbac7959d8a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\918fe3601d5fc7a85bf17fbac7959d8a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bd9c9d8b66e2eccb4f14d13c7d884c3c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bd9c9d8b66e2eccb4f14d13c7d884c3c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\18d4e528e43b0f1701c873201c658a4b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\18d4e528e43b0f1701c873201c658a4b\AndroidManifest.xml:26:5-20
+	android:supportsRtl
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:15:9-59
+	android:roundIcon
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.blogspot.shudipto.earthquake.MainActivity
+ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c3d4d38d6e9de3f7c3074bf9246c788d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c3d4d38d6e9de3f7c3074bf9246c788d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\239e29ee60eb88cf8dd24d4254feb303\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\239e29ee60eb88cf8dd24d4254feb303\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\21eca1bc70cab5cede818cd0c2394cfe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\21eca1bc70cab5cede818cd0c2394cfe\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d736ee7e8d28835d6fdce06e49171439\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d736ee7e8d28835d6fdce06e49171439\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\281a25e53f1cfe9f4689961f563020ac\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\281a25e53f1cfe9f4689961f563020ac\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\58fe2c8fa2adc8872a59eb7b170b8b15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\58fe2c8fa2adc8872a59eb7b170b8b15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\848ce61e63b37ae80ae45a58fe25bf8c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\848ce61e63b37ae80ae45a58fe25bf8c\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\785c77574e5e7655a16bd67084f06c02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\785c77574e5e7655a16bd67084f06c02\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d479451e10b9fa4bcad6181b74ade573\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d479451e10b9fa4bcad6181b74ade573\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\918fe3601d5fc7a85bf17fbac7959d8a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\918fe3601d5fc7a85bf17fbac7959d8a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bd9c9d8b66e2eccb4f14d13c7d884c3c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bd9c9d8b66e2eccb4f14d13c7d884c3c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\18d4e528e43b0f1701c873201c658a4b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\18d4e528e43b0f1701c873201c658a4b\AndroidManifest.xml:20:5-43
+INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c3d4d38d6e9de3f7c3074bf9246c788d\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_workspace\EarthQuake\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c3d4d38d6e9de3f7c3074bf9246c788d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\239e29ee60eb88cf8dd24d4254feb303\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\239e29ee60eb88cf8dd24d4254feb303\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\21eca1bc70cab5cede818cd0c2394cfe\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\21eca1bc70cab5cede818cd0c2394cfe\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d736ee7e8d28835d6fdce06e49171439\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\d736ee7e8d28835d6fdce06e49171439\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\281a25e53f1cfe9f4689961f563020ac\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\281a25e53f1cfe9f4689961f563020ac\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\58fe2c8fa2adc8872a59eb7b170b8b15\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\58fe2c8fa2adc8872a59eb7b170b8b15\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\848ce61e63b37ae80ae45a58fe25bf8c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\848ce61e63b37ae80ae45a58fe25bf8c\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d479451e10b9fa4bcad6181b74ade573\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\d479451e10b9fa4bcad6181b74ade573\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\918fe3601d5fc7a85bf17fbac7959d8a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\918fe3601d5fc7a85bf17fbac7959d8a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bd9c9d8b66e2eccb4f14d13c7d884c3c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bd9c9d8b66e2eccb4f14d13c7d884c3c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\18d4e528e43b0f1701c873201c658a4b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\18d4e528e43b0f1701c873201c658a4b\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c3d4d38d6e9de3f7c3074bf9246c788d\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Shudipto Trafder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\c3d4d38d6e9de3f7c3074bf9246c788d\AndroidManifest.xml:26:9-47
